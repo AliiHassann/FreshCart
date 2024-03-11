@@ -116,7 +116,7 @@ export default function Navbar() {
                   <li>
                     <a
                       target="_blank"
-                      href="https://www.facebook.com/profile.php?id=100071474855041"
+                      href=""
                     >
                       <i className="fa-brands fa-facebook"></i>
                     </a>
@@ -124,7 +124,7 @@ export default function Navbar() {
                   <li>
                     <a
                       target="_blank"
-                      href="https://www.instagram.com/m_o_3_g_z?fbclid=IwAR2tZL8f9vYdhDXCKWdVvl8syqVp5oh2mxMQbpcZV5udPLwKHSyUIjOatYU"
+                      href=""
                     >
                       <i className="fa-brands fa-instagram"></i>
                     </a>
@@ -132,24 +132,24 @@ export default function Navbar() {
                   <li>
                     <a
                       target="_blank"
-                      href="https://www.linkedin.com/in/mahmoud-sayed-15a66a2a8/"
+                      href=""
                     >
                       <i className="fa-brands fa-linkedin"></i>
                     </a>
                   </li>
                   <li>
-                    <a target="_blank" href="https://twitter.com/lukamodric10">
+                    <a target="_blank" href="">
                       <i className="fa-brands fa-x-twitter"></i>
                     </a>
                   </li>
                   <li>
-                    <a target="_blank" href="mailto:mahmoudsayed1612@gmail.com">
+                    <a target="_blank" href="">
                       <i className="fa-solid fa-envelope"></i>
                     </a>
                   </li>
 
                   <li>
-                    <a target="_blank" href="https://github.com/mahmouds10">
+                    <a target="_blank" href="">
                       <i className="fa-brands fa-github"></i>
                     </a>
                   </li>
